@@ -1,7 +1,9 @@
 # devweb-alura-desenvolve-boticario
-Study Project/
+Study Project//
 
-Front-end web development program from [Grupo Boticario](https://www.grupoboticario.com.br/) in partnership with [Alura](https://www.alura.com.br)
+Front-end web development program from [Grupo Boticario](https://www.grupoboticario.com.br/) in partnership with [Alura](https://www.alura.com.br).
+
+On [Vercel](https://devweb-alura-desenvolve-boticario.vercel.app/index.html).
 
 From:
 - [Alura - DevWeb course](https://cursos.alura.com.br/corp/devweb-115525-p718161)
